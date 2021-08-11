@@ -12,3 +12,5 @@ The audio was cut up and analysed using the free-ware Praat
 
 ## Part 2: Classification 
 The scope of the project was to be able to classify the phonemes from one another. Therefore, a KNN was built in order to do just that. Resulting in an average accuracy of 89%, the notebook with the code can be found in the repository as 'Phoneme Recognition.ipynb'
+
+![image](https://user-images.githubusercontent.com/73174341/128986435-52d3fef3-c728-472f-8d6d-edf9e9924e8a.png)
